@@ -10,5 +10,5 @@ Web前端-Base库，自己写的一个Base库。
 \<script type="text/javascript" src="base_drag.js"></script>    
 \<script type="text/javascript" src="base_animate.js"></script>
 # 如何使用本库？
-参考Demo.rar文件
+参考Demo.rar文件 
 
